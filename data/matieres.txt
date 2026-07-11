@@ -1,0 +1,147 @@
+296ea7f9-8581-41ca-9959-c4910454f7a0|Anglais / Français / Communication|AP|1A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+2eec96e9-b083-4f56-b08b-b3b318ca3762|Informatique industrielle|GII|4A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+23ee0096-d4aa-44c9-a2f4-c75b2595c598|Développement Web (PHP, Frameworks)|IIR|3A|4|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+fec0728a-9846-455a-9508-67d2d5a49ef3|Mathématiques (Analyse, Algèbre)|AP|1A|4|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+994478be-87eb-44a5-9fa8-2d8b9044e5d5|Gestion de production|GI|3A|2|Cours|96e94dab-03e7-4f0a-aad3-f888e8aaf6aa
+ab716fad-ca8d-4f1e-819f-887a0ae0cda1|Programmation C|AP|1A|4|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+0f17120a-1b8e-4645-83e8-7cc2c1f5f67d|Architecture logicielle avancée|IIR|5A|2|Cours|4df7ee35-bbe2-44fb-834d-ba29f2af817b
+393a797c-21ae-43d1-ad4f-4d64b551ea59|Structure des ordinateurs|AP|1A|2|Cours|e2207087-b514-4164-a52f-647be9af91e6
+7f57fb0e-345f-4055-8605-b52a30f1660e|Automates programmables (PLC)|GII|3A|2|Cours|69fb3c16-eb31-41c1-b828-f94951f9dd34
+02d426c9-5e63-48da-b834-ba2a2bbe99a0|Qualité (ISO)|GI|4A|2|Cours|86c5c68a-66a7-4281-b8df-3d4c9c983f55
+132b54e8-6190-416f-bb38-d0c0831ef883|Stage en entreprise|IIR|5A|0|Cours|e71f481c-51f3-422d-bcf6-dfa81a437cf4
+050b995b-6f54-41e8-85bb-1588ac3fbfdb|Algorithmique|AP|1A|2|Cours|45f85664-e9d0-49ce-9501-a149e48aa7d9
+6f180d7e-68d3-4733-98d4-e8542563901b|Robotique|GII|4A|2|Cours|7e6d14cb-8a07-4057-8293-4338007807db
+8ffcbe6b-e6cc-4fa8-8844-e36529871c7f|Réseaux avancés (Cisco)|IIR|3A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+9b05d73f-d4dc-4d59-8b37-e32121cec81f|Programmation orientée objet (Java / C++)|AP|2A|4|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+c07c73b9-3d45-449f-be76-7c9422cc8a2b|Réseaux (TCP/IP)|AP|2A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+192fb841-bfe7-4724-a22a-787f12c5e5f0|Probabilités & statistiques|AP|2A|2|Cours|b71da8fa-463a-485a-bdfe-3f3cb596c52e
+0c4f5a66-5b91-49ca-8a8f-b1bfede96ab8|Administration systèmes (Linux / Windows Server)|IIR|3A|2|Cours|70fcf361-b0b9-4dd0-90c6-c6516ba9aaef
+0faa3e3c-7586-4990-8836-ad975504e78e|DevOps|IR-DEV|4A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+b123c06e-f296-4328-ad9d-c1c91ec24785|Machine Learning|IIR|5A|4|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+fd53d2a7-22b7-4e28-9bc7-1b9b8f65204b|Sécurité informatique (intro)|IIR|3A|2|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+2f02f0d0-0949-4afc-ba60-b4735542eeaa|Big Data (intro)|IR-IA|4A|2|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+23026e7e-361f-4434-87d6-e9a52cca1ab3|Électronique industrielle|GII|3A|2|Cours|40dd9ad7-50a3-4b4e-841f-a8201fd13d2b
+261103cd-2027-4d9f-99a6-1d7fca7ed4a9|Développement mobile|IR-DEV|4A|4|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+d1373f78-cd06-4ef1-8ed5-d9d0f2dc3e8e|Bases de données avancées|IIR|3A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+97adbe02-3309-4373-ba90-347cac423a47|Électronique de base|AP|1A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+0e4aec48-49ff-4659-90f0-3cc9ca5963c6|Génie logiciel|AP|2A|2|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+dacdd884-75fc-4b10-a518-d19cac79f79f|Culture digitale|AP|1A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+75b5c9d2-024e-4307-be7c-6285c95c7476|Intelligence Artificielle (bases)|IR-IA|4A|4|Cours|b71da8fa-463a-485a-bdfe-3f3cb596c52e
+e6e5dc31-fac4-4cfb-95e2-3d0f79f0590d|Traitement du signal|GII|3A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+2b640ac9-55b5-47fd-924c-ffc74ac3dc67|Management de projet|GI|4A|2|Cours|86c5c68a-66a7-4281-b8df-3d4c9c983f55
+3a8170d2-a510-43ea-8b42-a18d88476d65|Microservices|IIR|5A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+cad27739-9d44-49bd-b1e8-30210f43bcfd|Bases de données (SQL)|AP|2A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+ccf64706-6a6e-4af3-9e20-c76304d2a6ea|Réseaux informatiques (bases)|AP|1A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+6c979294-8c79-45c2-859b-008f77b51f6b|Supervision industrielle (SCADA)|GII|4A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+90839edb-37da-4e97-8aef-88178d24e63c|Systèmes embarqués|GII|3A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+cf6983d0-8007-4daf-8a25-62e304461c35|Statistiques industrielles|GI|3A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+d63da430-0068-483f-a3f5-67f926cfb536|Développement Web (HTML, CSS, JS)|AP|2A|4|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+ff53e707-5cb7-41da-8597-7d747066bed2|Cloud Computing|IR-CIR|4A|2|Cours|96e94dab-03e7-4f0a-aad3-f888e8aaf6aa
+8071a5d4-454a-4d41-bd7f-c8406861b55a|Systèmes d'exploitation (intro)|AP|1A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+1e765571-7d57-4dca-add7-f454b91ea2f2|Communication professionnelle|AP|2A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+2d2179dd-f04f-4e1c-b54d-f352b4382300|Logistique & Supply Chain|GI|3A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+3f49e8e0-98e2-4d80-a0a5-727dc1e0f00d|Sécurité avancée|IIR|5A|2|Cours|40dd9ad7-50a3-4b4e-841f-a8201fd13d2b
+c69d816a-72c9-4c5c-8132-b46fd3b56fd6|Projet de fin d'études (PFE)|IIR|5A|6|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+11f3818a-2f1e-46f2-9175-f5676f7de3f8|Systèmes d'exploitation avancés|AP|2A|2|Cours|40dd9ad7-50a3-4b4e-841f-a8201fd13d2b
+1842bddc-54b2-4e8a-99b0-7e3f7beaf33d|UML & conception logicielle|IIR|3A|2|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+48d84628-92d7-46dd-abbc-ac9bdefdc999|Cybersécurité|IR-CIR|4A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+554d33cc-820c-4778-abb9-96b97f83923d|Recherche opérationnelle|GI|4A|2|Cours|40dd9ad7-50a3-4b4e-841f-a8201fd13d2b
+bd9ff6e2-e089-49e7-b2cc-3da778beba89|Structures de données|AP|2A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+a4349793-69df-402e-afce-b482b0892765|Mathematiques (Analyse, Algebre)|AP|1A|4|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+cc4bfe2a-9ab2-4976-8c07-3ce15a84116a|Algorithmique|AP|1A|2|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+c4facce6-8ee5-4c69-885f-b4793a26a740|Programmation C|AP|1A|4|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+b95282d6-ab34-40d7-a8dc-a226d8d91a30|Structure des ordinateurs|AP|1A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+c49405d5-e7f5-48b5-af75-1ee28d264259|Systemes d'exploitation (intro)|AP|1A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+b00f9123-36d0-4f9d-b4b6-40a3571a3ac2|Reseaux informatiques (bases)|AP|1A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+c6b769ba-71ad-4fb9-9ded-c0fa8be0a5d6|Electronique de base|AP|1A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+095df19b-9743-4c42-a8e3-8a7fd54f4320|Anglais / Francais / Communication|AP|1A|2|Cours|4df7ee35-bbe2-44fb-834d-ba29f2af817b
+fd87ee6e-c212-41df-8e77-03d594fae4c9|Culture digitale|AP|1A|2|Cours|b71da8fa-463a-485a-bdfe-3f3cb596c52e
+ff3a397d-cfcf-44ef-960a-a852d7f6d3d5|Programmation orientee objet (Java / C++)|AP|2A|4|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+a108f7d6-e067-48a6-ab25-77886aa5b5fb|Structures de donnees|AP|2A|2|Cours|86c5c68a-66a7-4281-b8df-3d4c9c983f55
+fe2435d6-5841-4fc9-9a0e-129aab144971|Bases de donnees (SQL)|AP|2A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+563170ce-3f8e-4dd2-a2f4-b4371cfae468|Reseaux (TCP/IP)|AP|2A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+27d9bfba-005b-439a-bd67-e3b7cd1d39e5|Systemes d'exploitation avances|AP|2A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+112eb085-b882-404b-9c1e-6f344a6135b1|Genie logiciel|AP|2A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+8e9d2f84-87a0-44c1-955f-81a00dff2da4|Probabilites & statistiques|AP|2A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+d02bd496-4b4a-474d-8d30-133dbdef3b76|Developpement Web (HTML, CSS, JS)|AP|2A|4|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+e51356ea-fe8e-42f7-8406-2055440c5f95|Communication professionnelle|AP|2A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+0e6bae04-3022-4ee6-a064-1db53bcfa870|Developpement Web (PHP, Frameworks)|IIR|3A|4|Cours|70fcf361-b0b9-4dd0-90c6-c6516ba9aaef
+5cbebc6b-9b09-4ffb-bbbf-709115ff39a0|Administration systemes (Linux / Windows Server)|IIR|3A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+783c271c-4b0a-4b62-8877-4bf076af9293|Reseaux avances (Cisco)|IIR|3A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+fc29c5b2-fa02-4ecc-8d81-6e00a618358c|Bases de donnees avancees|IIR|3A|2|Cours|96e94dab-03e7-4f0a-aad3-f888e8aaf6aa
+6bd5d006-1395-4f33-9c9e-a8c4b9eda5bd|UML & conception logicielle|IIR|3A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+7c86b55f-d784-43c6-ae64-d2c7b9776948|Securite informatique (intro)|IIR|3A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+a1f1183f-d528-40b5-9844-b007ea615dc5|Cloud Computing|IR-CIR|4A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+8865edbb-9ce4-46fd-9cc9-612815e61ad3|Cybersecurite|IR-CIR|4A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+db7cf33a-c9c9-4067-87b5-31e12ee7a646|DevOps|IR-DEV|4A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+72a28a8c-0b4d-4a94-a2f9-702aa70e7712|Developpement mobile|IR-DEV|4A|4|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+1cd8f020-d530-4f7a-a8f2-8103a21b6725|Big Data (intro)|IR-IA|4A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+377dc4b1-572c-4e42-bcf0-d8979a0f5fc9|Intelligence Artificielle (bases)|IR-IA|4A|4|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+f40394b4-e475-4115-8ea5-3c78f4717720|Machine Learning|IIR|5A|4|Cours|b71da8fa-463a-485a-bdfe-3f3cb596c52e
+7580192a-1ea3-4045-b0ba-5c9674063784|Architecture logicielle avancee|IIR|5A|2|Cours|40dd9ad7-50a3-4b4e-841f-a8201fd13d2b
+4cbb4a72-911a-477b-a208-3e9a70d01376|Microservices|IIR|5A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+cbf4cc03-001f-4959-9bc0-d5ab6bd6eac9|Securite avancee|IIR|5A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+887b5eb9-a3ae-401f-8944-279fa679632d|Projet de fin d'etudes (PFE)|IIR|5A|6|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+d2218548-4941-44d1-b71d-d29043f5270f|Stage en entreprise|IIR|5A|0|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+788f0698-d5c9-4afe-bf84-1eca9a008b3b|Automates programmables (PLC)|GII|3A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+476c3821-30bb-45db-92cf-e9ea100856dc|Systemes embarques|GII|3A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+88f7a07d-ce5e-425c-bff6-11b7fb48db55|Robotique|GII|4A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+4a0e9378-c9a4-4e53-a058-4d6e888f727f|Electronique industrielle|GII|3A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+0bd1549f-86bb-4ef3-b586-676b94a2d05d|Traitement du signal|GII|3A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+91bd0855-5998-4c40-9d6d-92de28da8e89|Informatique industrielle|GII|4A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+2f384ecf-4c8a-4659-8ab6-55485368cf7c|Supervision industrielle (SCADA)|GII|4A|2|Cours|e2207087-b514-4164-a52f-647be9af91e6
+cafa9935-0511-4e6a-82c0-56931ed6701b|Gestion de production|GI|3A|2|Cours|e71f481c-51f3-422d-bcf6-dfa81a437cf4
+684618df-9dfc-46ff-b60d-c772b7bbdce1|Logistique & Supply Chain|GI|3A|2|Cours|7e6d14cb-8a07-4057-8293-4338007807db
+67689536-9eee-40ee-b8ce-d72c32f9e1b3|Management de projet|GI|4A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+d8481ad2-179e-49a9-a224-dbacc2235945|Qualite (ISO)|GI|4A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+dd17155f-482b-4c93-8cf0-a18c7902343e|Recherche operationnelle|GI|4A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+3960a297-46db-448f-baec-751061630900|Statistiques industrielles|GI|3A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+b4f10edc-9751-4313-913a-5ba9b6312796|Mathematiques (Analyse, Algebre)|AP|1A|4|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+9e0472c2-4f90-481a-8ae3-dabd9d7adce6|Algorithmique|AP|1A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+056894c2-13c9-4a87-b5ce-840db64bbbca|Programmation C|AP|1A|4|Cours|70fcf361-b0b9-4dd0-90c6-c6516ba9aaef
+94a4afd3-abd7-44b0-9712-8d8a8ba294e1|Structure des ordinateurs|AP|1A|2|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+c6b8b898-6411-4322-86bd-0f7518ae896a|Systemes d'exploitation (intro)|AP|1A|2|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+eb3876a4-d414-4ed3-be19-9d9e788ae7ce|Reseaux informatiques (bases)|AP|1A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+0d968f88-f954-4d50-98c7-f5b0c36f954b|Electronique de base|AP|1A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+aa676147-f8cf-4dff-af9e-3bcfc1b477ab|Anglais / Francais / Communication|AP|1A|2|Cours|4df7ee35-bbe2-44fb-834d-ba29f2af817b
+0f788ad7-9cd6-48bd-bfd4-f00da757f081|Culture digitale|AP|1A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+02d54ba5-32ee-4266-b33c-96afa892d454|Programmation orientee objet (Java / C++)|AP|2A|4|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+1178a337-0f2a-4c9a-b20c-85d89f1d7375|Structures de donnees|AP|2A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+e11697ac-23d6-4969-8d00-9a87c85249fe|Bases de donnees (SQL)|AP|2A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+de4d5510-d0d2-45b6-a942-20e471b6e0ab|Reseaux (TCP/IP)|AP|2A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+e80d6be6-9d82-4624-bd08-de453bf92162|Systemes d'exploitation avances|AP|2A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+50881059-82f4-4efd-ba25-ce6ba8e58d81|Genie logiciel|AP|2A|2|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+4f0943f5-0406-45d7-9eef-762752e9d342|Probabilites & statistiques|AP|2A|2|Cours|96e94dab-03e7-4f0a-aad3-f888e8aaf6aa
+79433976-ff87-48be-9ec3-a3f981891f4b|Developpement Web (HTML, CSS, JS)|AP|2A|4|Cours|4df7ee35-bbe2-44fb-834d-ba29f2af817b
+96cc8d01-7071-4374-bdfa-f1193ac2ccd0|Communication professionnelle|AP|2A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+2896abc6-38ba-44ad-b629-2116fcfa45f6|Developpement Web (PHP, Frameworks)|IIR|3A|4|Cours|e2207087-b514-4164-a52f-647be9af91e6
+630fd0fb-5763-4fe3-94fa-cbbcc8aa741b|Administration systemes (Linux / Windows Server)|IIR|3A|2|Cours|7e6d14cb-8a07-4057-8293-4338007807db
+642d6ba6-7916-4c53-8a8c-ca9b6ea2b2d5|Reseaux avances (Cisco)|IIR|3A|2|Cours|45f85664-e9d0-49ce-9501-a149e48aa7d9
+824a729d-fa6d-4a1b-8b7c-0b35a283e4c2|Bases de donnees avancees|IIR|3A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+80cc4a0b-b469-4778-b10a-77b88999967e|UML & conception logicielle|IIR|3A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+60c9e370-555a-42eb-83c5-a8be199f8304|Securite informatique (intro)|IIR|3A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+ebfb57f6-8e2f-4365-ab1d-64b0598f7676|Cloud Computing|IR-CIR|4A|2|Cours|b71da8fa-463a-485a-bdfe-3f3cb596c52e
+383c88ed-dff3-444e-ba58-179144c16beb|Cybersecurite|IR-CIR|4A|2|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+787624f4-7e7b-404a-a490-a17ea4d47e3c|DevOps|IR-DEV|4A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+b8c63828-d1ac-4cdd-bf20-f81b5d07cb5f|Developpement mobile|IR-DEV|4A|4|Cours|e386fbab-d1d1-4e7e-ace5-a78055b43457
+002f9643-fc2c-4320-8938-2de1e1df514e|Big Data (intro)|IR-IA|4A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+bb213d1b-c6ed-4d91-a399-11f20383b790|Intelligence Artificielle (bases)|IR-IA|4A|4|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+df63c4b0-8a5c-4779-af84-74fe2dbeb1a5|Machine Learning|IIR|5A|4|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+8ac38ae5-ff32-4222-bb37-edae9f014ed3|Architecture logicielle avancee|IIR|5A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+408b4aed-d5d0-40ad-ac6a-9fa3847adf49|Microservices|IIR|5A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+28ce9080-a82b-430d-abbe-a0d925ab6c1f|Securite avancee|IIR|5A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+b41fae35-ff2e-4bd8-882a-2e2f0b41c749|Projet de fin d'etudes (PFE)|IIR|5A|6|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+61c2c295-b62c-448f-af13-d6c231b74552|Stage en entreprise|IIR|5A|0|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+ad23a927-4662-4df3-b2a6-5908fa78f8f2|Automates programmables (PLC)|GII|3A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd
+0706def5-9502-4c78-af10-ab8693d6b349|Systemes embarques|GII|3A|2|Cours|24eefbaf-0b0e-4f0c-9e14-08131ee88a24
+e84b1abd-07f1-4e81-b605-42d6cf7fa51c|Robotique|GII|4A|2|Cours|867858bf-e117-4873-9231-a5bd868b1f69
+974dc504-3fe6-4713-8ab7-69032a2f2659|Electronique industrielle|GII|3A|2|Cours|aa7a2078-e136-4fc5-a083-236e51510d39
+34717d15-4e17-4d42-9dbc-4146a9768522|Traitement du signal|GII|3A|2|Cours|6f7ebafa-d63c-4c23-a198-1915723503c2
+576efafa-f522-46ba-a382-a3a0293fb730|Informatique industrielle|GII|4A|2|Cours|536668ab-0865-4d63-98c7-5925d75dc71d
+30ceb575-c0a6-41be-a742-afe67e67b23d|Supervision industrielle (SCADA)|GII|4A|2|Cours|e17fca2b-8276-41c8-94a1-50122ce6ffab
+75d74673-3e1d-4c04-9295-dbeac3719228|Gestion de production|GI|3A|2|Cours|4df7ee35-bbe2-44fb-834d-ba29f2af817b
+199e63b1-8db4-426a-ba60-b770af3e7b7a|Logistique & Supply Chain|GI|3A|2|Cours|e2207087-b514-4164-a52f-647be9af91e6
+9e97e9f4-c8c0-4d34-bc90-049bd15b95e2|Management de projet|GI|4A|2|Cours|86c5c68a-66a7-4281-b8df-3d4c9c983f55
+d1180604-6a2f-430f-9726-89418d62c1a3|Qualite (ISO)|GI|4A|2|Cours|dd404883-0c45-4608-a60b-0aa4334460d6
+e3b47304-84a1-4e1b-828d-3e03bcf07e09|Recherche operationnelle|GI|4A|2|Cours|92699be7-80d8-42b3-9416-7b5c08868914
+5973ef81-e2ae-4ec8-b33f-7b445a6df12b|Statistiques industrielles|GI|3A|2|Cours|38a9395e-ca16-41ab-8900-7fe1b34deccd

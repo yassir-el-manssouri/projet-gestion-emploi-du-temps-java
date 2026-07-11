@@ -1,0 +1,20 @@
+================================================================================
+                    EMPLOI DU TEMPS - EMSI
+================================================================================
+
+Classe: 1AP7 (1A - AP)
+Semaine: Semaine 1
+Date d'export: Sat Jul 11 03:28:40 WEST 2026
+
+--------------------------------------------------------------------------------
+08:00 - 10:00   | 08:00 - 08:04Programmation CMohamed BenaliSalle C - Etage 3 | -                                   | 08:00 - 08:02Culture digitaleMohamed BenaliSalle C - Etage 3 | 08:00 - 08:02Réseaux informatiques (bases)Mohamed BenaliSalle C - Etage 3 | 08:00 - 08:02Electronique de baseMohamed BenaliSalle C - Etage 3 | -                                  
+--------------------------------------------------------------------------------
+10:00 - 12:00   | 10:00 - 10:02Électronique de baseMohamed BenaliSalle B - Etage 5 | 10:00 - 10:02Systemes d'exploitation (intro)Mohamed BenaliSalle B - Etage 5 | -                                   | 10:00 - 10:02Anglais / Français / CommunicationMohamed BenaliSalle C - Etage 3 | 10:00 - 10:02Anglais / Francais / CommunicationMohamed BenaliSalle C - Etage 3 | 10:00 - 10:04Mathematiques (Analyse, Algebre)Mohamed BenaliSalle C - Etage 3
+--------------------------------------------------------------------------------
+14:00 - 16:00   | 14:00 - 14:02AlgorithmiqueMohamed BenaliSalle C - Etage 3 | 14:00 - 14:04Mathématiques (Analyse, Algèbre)Mohamed BenaliSalle C - Etage 3 | 14:00 - 14:02Structure des ordinateursMohamed BenaliSalle A - Etage 3 | -                                   | 14:00 - 14:02Systèmes d'exploitation (intro)Mohamed BenaliSalle C - Etage 3 | 14:00 - 14:02Structure des ordinateursMohamed BenaliSalle A - Etage 3
+--------------------------------------------------------------------------------
+16:00 - 18:00   | -                                   | 16:00 - 16:04Programmation CMohamed BenaliSalle C - Etage 3 | 16:00 - 16:02AlgorithmiqueMohamed BenaliSalle B - Etage 5 | 16:00 - 16:02Reseaux informatiques (bases)Mohamed BenaliSalle C - Etage 3 | -                                   | 16:00 - 16:02Culture digitaleMohamed BenaliSalle B - Etage 3
+--------------------------------------------------------------------------------
+
+================================================================================
+Fin de l'emploi du temps - Genere automatiquement

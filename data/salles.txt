@@ -1,0 +1,168 @@
+EMSI_bouregrag_E3_C|Salle C - Etage 3|EMSI bouregrag|3|C|45
+EMSI_bouregrag_E5_LI|Salle LI - Etage 5|EMSI bouregrag|5|LI|45
+EMSI_bouregrag_E3_A|Salle A - Etage 3|EMSI bouregrag|3|A|45
+EMSI_bouregrag_E3_B|Salle B - Etage 3|EMSI bouregrag|3|B|45
+EMSI_souissi_E5_B|Salle B - Etage 5|EMSI souissi|5|B|45
+EMSI_souissi_E5_C|Salle C - Etage 5|EMSI souissi|5|C|45
+EMSI_souissi_E5_A|Salle A - Etage 5|EMSI souissi|5|A|45
+EMSI_souissi_E1_B|Salle B - Etage 1|EMSI souissi|1|B|45
+EMSI_Agdal_2_E2_LI|Salle LI - Etage 2|EMSI Agdal 2|2|LI|45
+EMSI_souissi_E1_C|Salle C - Etage 1|EMSI souissi|1|C|45
+EMSI_souissi_E1_A|Salle A - Etage 1|EMSI souissi|1|A|45
+EMSI_Agdal_2_E2_Amphi|Amphithéâtre - Etage 2|EMSI Agdal 2|2|Amphi|200
+EMSI_Hassan_E2_B|Salle B - Etage 2|EMSI Hassan|2|B|45
+EMSI_Hassan_E2_C|Salle C - Etage 2|EMSI Hassan|2|C|45
+EMSI_centre_2_E2_A|Salle A - Etage 2|EMSI centre 2|2|A|40
+EMSI_Hassan_E6_A|Salle A - Etage 6|EMSI Hassan|6|A|45
+EMSI_Agdal_2_E4_C|Salle C - Etage 4|EMSI Agdal 2|4|C|45
+EMSI_Hassan_E6_B|Salle B - Etage 6|EMSI Hassan|6|B|45
+EMSI_souissi_E5_LI|Salle LI - Etage 5|EMSI souissi|5|LI|45
+EMSI_Agdal_2_E4_B|Salle B - Etage 4|EMSI Agdal 2|4|B|45
+EMSI_Hassan_E6_C|Salle C - Etage 6|EMSI Hassan|6|C|45
+EMSI_Agdal_2_E4_A|Salle A - Etage 4|EMSI Agdal 2|4|A|45
+EMSI_Agdal_2_E5_Amphi|Amphithéâtre - Etage 5|EMSI Agdal 2|5|Amphi|200
+EMSI_centre_1_E3_B|Salle B - Etage 3|EMSI centre 1|3|B|40
+EMSI_Agdal_2_E4_F|Salle F - Etage 4|EMSI Agdal 2|4|F|45
+EMSI_centre_1_E3_C|Salle C - Etage 3|EMSI centre 1|3|C|40
+EMSI_Agdal_2_E4_E|Salle E - Etage 4|EMSI Agdal 2|4|E|45
+EMSI_Agdal_2_E4_D|Salle D - Etage 4|EMSI Agdal 2|4|D|45
+EMSI_Hassan_E1_LI|Salle LI - Etage 1|EMSI Hassan|1|LI|45
+EMSI_centre_1_E3_A|Salle A - Etage 3|EMSI centre 1|3|A|40
+EMSI_Hassan_E2_A|Salle A - Etage 2|EMSI Hassan|2|A|45
+EMSI_souissi_E2_LI|Salle LI - Etage 2|EMSI souissi|2|LI|45
+EMSI_centre_2_E2_B|Salle B - Etage 2|EMSI centre 2|2|B|40
+EMSI_centre_2_E2_C|Salle C - Etage 2|EMSI centre 2|2|C|40
+EMSI_Hassan_E4_LI|Salle LI - Etage 4|EMSI Hassan|4|LI|45
+EMSI_centre_1_E4_LI|Salle LI - Etage 4|EMSI centre 1|4|LI|40
+EMSI_Agdal_1_E4_C|Salle C - Etage 4|EMSI Agdal 1|4|C|40
+EMSI_Agdal_1_E4_A|Salle A - Etage 4|EMSI Agdal 1|4|A|40
+EMSI_Agdal_1_E4_B|Salle B - Etage 4|EMSI Agdal 1|4|B|40
+EMSI_bouregrag_E4_B|Salle B - Etage 4|EMSI bouregrag|4|B|45
+EMSI_bouregrag_E4_C|Salle C - Etage 4|EMSI bouregrag|4|C|45
+EMSI_bouregrag_E3_LI|Salle LI - Etage 3|EMSI bouregrag|3|LI|45
+EMSI_souissi_E6_C|Salle C - Etage 6|EMSI souissi|6|C|45
+EMSI_bouregrag_E4_A|Salle A - Etage 4|EMSI bouregrag|4|A|45
+EMSI_souissi_E6_A|Salle A - Etage 6|EMSI souissi|6|A|45
+EMSI_souissi_E6_B|Salle B - Etage 6|EMSI souissi|6|B|45
+EMSI_souissi_E2_C|Salle C - Etage 2|EMSI souissi|2|C|45
+EMSI_souissi_E2_A|Salle A - Etage 2|EMSI souissi|2|A|45
+EMSI_souissi_E2_B|Salle B - Etage 2|EMSI souissi|2|B|45
+EMSI_Agdal_2_E4_LI|Salle LI - Etage 4|EMSI Agdal 2|4|LI|45
+EMSI_centre_2_E1_LI|Salle LI - Etage 1|EMSI centre 2|1|LI|40
+EMSI_Hassan_E3_A|Salle A - Etage 3|EMSI Hassan|3|A|45
+EMSI_Hassan_E3_B|Salle B - Etage 3|EMSI Hassan|3|B|45
+EMSI_Hassan_E3_C|Salle C - Etage 3|EMSI Hassan|3|C|45
+EMSI_Hassan_E3_LI|Salle LI - Etage 3|EMSI Hassan|3|LI|45
+EMSI_centre_2_E4_LI|Salle LI - Etage 4|EMSI centre 2|4|LI|40
+EMSI_Agdal_2_E3_D|Salle D - Etage 3|EMSI Agdal 2|3|D|45
+EMSI_Agdal_2_E3_C|Salle C - Etage 3|EMSI Agdal 2|3|C|45
+EMSI_Agdal_1_E2_LI|Salle LI - Etage 2|EMSI Agdal 1|2|LI|40
+EMSI_Agdal_2_E3_B|Salle B - Etage 3|EMSI Agdal 2|3|B|45
+EMSI_Agdal_2_E3_A|Salle A - Etage 3|EMSI Agdal 2|3|A|45
+EMSI_centre_1_E2_C|Salle C - Etage 2|EMSI centre 1|2|C|40
+EMSI_Agdal_2_E3_F|Salle F - Etage 3|EMSI Agdal 2|3|F|45
+EMSI_centre_1_E2_A|Salle A - Etage 2|EMSI centre 1|2|A|40
+EMSI_Agdal_2_E3_E|Salle E - Etage 3|EMSI Agdal 2|3|E|45
+EMSI_centre_1_E2_B|Salle B - Etage 2|EMSI centre 1|2|B|40
+EMSI_centre_1_E1_A|Salle A - Etage 1|EMSI centre 1|1|A|40
+EMSI_centre_2_E3_C|Salle C - Etage 3|EMSI centre 2|3|C|40
+EMSI_Agdal_2_E1_LI|Salle LI - Etage 1|EMSI Agdal 2|1|LI|45
+EMSI_centre_2_E3_A|Salle A - Etage 3|EMSI centre 2|3|A|40
+EMSI_bouregrag_E6_LI|Salle LI - Etage 6|EMSI bouregrag|6|LI|45
+EMSI_Agdal_2_E6_Amphi|Amphithéâtre - Etage 6|EMSI Agdal 2|6|Amphi|200
+EMSI_centre_2_E3_B|Salle B - Etage 3|EMSI centre 2|3|B|40
+EMSI_Hassan_E6_LI|Salle LI - Etage 6|EMSI Hassan|6|LI|45
+EMSI_souissi_E4_LI|Salle LI - Etage 4|EMSI souissi|4|LI|45
+EMSI_centre_1_E2_LI|Salle LI - Etage 2|EMSI centre 1|2|LI|40
+EMSI_Agdal_1_E1_B|Salle B - Etage 1|EMSI Agdal 1|1|B|40
+EMSI_Agdal_1_E1_C|Salle C - Etage 1|EMSI Agdal 1|1|C|40
+EMSI_Agdal_1_E1_A|Salle A - Etage 1|EMSI Agdal 1|1|A|40
+EMSI_bouregrag_E5_B|Salle B - Etage 5|EMSI bouregrag|5|B|45
+EMSI_bouregrag_E5_A|Salle A - Etage 5|EMSI bouregrag|5|A|45
+EMSI_bouregrag_E1_C|Salle C - Etage 1|EMSI bouregrag|1|C|45
+EMSI_Agdal_2_E6_LI|Salle LI - Etage 6|EMSI Agdal 2|6|LI|45
+EMSI_bouregrag_E1_A|Salle A - Etage 1|EMSI bouregrag|1|A|45
+EMSI_bouregrag_E1_B|Salle B - Etage 1|EMSI bouregrag|1|B|45
+EMSI_souissi_E1_LI|Salle LI - Etage 1|EMSI souissi|1|LI|45
+EMSI_souissi_E3_B|Salle B - Etage 3|EMSI souissi|3|B|45
+EMSI_souissi_E3_C|Salle C - Etage 3|EMSI souissi|3|C|45
+EMSI_souissi_E3_A|Salle A - Etage 3|EMSI souissi|3|A|45
+EMSI_bouregrag_E1_LI|Salle LI - Etage 1|EMSI bouregrag|1|LI|45
+EMSI_bouregrag_E5_C|Salle C - Etage 5|EMSI bouregrag|5|C|45
+EMSI_Agdal_2_E2_A|Salle A - Etage 2|EMSI Agdal 2|2|A|45
+EMSI_Hassan_E4_A|Salle A - Etage 4|EMSI Hassan|4|A|45
+EMSI_Hassan_E5_LI|Salle LI - Etage 5|EMSI Hassan|5|LI|45
+EMSI_Hassan_E4_B|Salle B - Etage 4|EMSI Hassan|4|B|45
+EMSI_centre_2_E2_LI|Salle LI - Etage 2|EMSI centre 2|2|LI|40
+EMSI_Hassan_E4_C|Salle C - Etage 4|EMSI Hassan|4|C|45
+EMSI_Agdal_2_E2_E|Salle E - Etage 2|EMSI Agdal 2|2|E|45
+EMSI_Agdal_2_E6_A|Salle A - Etage 6|EMSI Agdal 2|6|A|45
+EMSI_Agdal_1_E4_LI|Salle LI - Etage 4|EMSI Agdal 1|4|LI|40
+EMSI_Agdal_2_E2_D|Salle D - Etage 2|EMSI Agdal 2|2|D|45
+EMSI_centre_1_E3_LI|Salle LI - Etage 3|EMSI centre 1|3|LI|40
+EMSI_Agdal_2_E2_C|Salle C - Etage 2|EMSI Agdal 2|2|C|45
+EMSI_Agdal_2_E2_B|Salle B - Etage 2|EMSI Agdal 2|2|B|45
+EMSI_Agdal_2_E6_E|Salle E - Etage 6|EMSI Agdal 2|6|E|45
+EMSI_Agdal_2_E6_D|Salle D - Etage 6|EMSI Agdal 2|6|D|45
+EMSI_Agdal_2_E6_C|Salle C - Etage 6|EMSI Agdal 2|6|C|45
+EMSI_centre_1_E1_B|Salle B - Etage 1|EMSI centre 1|1|B|40
+EMSI_Agdal_2_E2_F|Salle F - Etage 2|EMSI Agdal 2|2|F|45
+EMSI_Agdal_2_E6_B|Salle B - Etage 6|EMSI Agdal 2|6|B|45
+EMSI_centre_1_E1_C|Salle C - Etage 1|EMSI centre 1|1|C|40
+EMSI_Agdal_2_E6_F|Salle F - Etage 6|EMSI Agdal 2|6|F|45
+EMSI_bouregrag_E4_LI|Salle LI - Etage 4|EMSI bouregrag|4|LI|45
+EMSI_Agdal_2_E1_Amphi|Amphithéâtre - Etage 1|EMSI Agdal 2|1|Amphi|200
+EMSI_Agdal_2_E3_LI|Salle LI - Etage 3|EMSI Agdal 2|3|LI|45
+EMSI_centre_2_E4_B|Salle B - Etage 4|EMSI centre 2|4|B|40
+EMSI_centre_2_E4_C|Salle C - Etage 4|EMSI centre 2|4|C|40
+EMSI_centre_2_E4_A|Salle A - Etage 4|EMSI centre 2|4|A|40
+EMSI_Agdal_1_E1_LI|Salle LI - Etage 1|EMSI Agdal 1|1|LI|40
+EMSI_souissi_E6_LI|Salle LI - Etage 6|EMSI souissi|6|LI|45
+EMSI_Agdal_1_E2_C|Salle C - Etage 2|EMSI Agdal 1|2|C|40
+EMSI_Agdal_1_E2_A|Salle A - Etage 2|EMSI Agdal 1|2|A|40
+EMSI_Agdal_1_E2_B|Salle B - Etage 2|EMSI Agdal 1|2|B|40
+EMSI_Agdal_2_E4_Amphi|Amphithéâtre - Etage 4|EMSI Agdal 2|4|Amphi|200
+EMSI_bouregrag_E6_A|Salle A - Etage 6|EMSI bouregrag|6|A|45
+EMSI_bouregrag_E2_B|Salle B - Etage 2|EMSI bouregrag|2|B|45
+EMSI_bouregrag_E2_C|Salle C - Etage 2|EMSI bouregrag|2|C|45
+EMSI_souissi_E4_C|Salle C - Etage 4|EMSI souissi|4|C|45
+EMSI_bouregrag_E2_A|Salle A - Etage 2|EMSI bouregrag|2|A|45
+EMSI_souissi_E4_A|Salle A - Etage 4|EMSI souissi|4|A|45
+EMSI_souissi_E4_B|Salle B - Etage 4|EMSI souissi|4|B|45
+EMSI_bouregrag_E6_C|Salle C - Etage 6|EMSI bouregrag|6|C|45
+EMSI_bouregrag_E6_B|Salle B - Etage 6|EMSI bouregrag|6|B|45
+EMSI_Agdal_2_E1_B|Salle B - Etage 1|EMSI Agdal 2|1|B|45
+EMSI_Hassan_E1_C|Salle C - Etage 1|EMSI Hassan|1|C|45
+EMSI_centre_2_E1_A|Salle A - Etage 1|EMSI centre 2|1|A|40
+EMSI_Agdal_2_E1_A|Salle A - Etage 1|EMSI Agdal 2|1|A|45
+EMSI_centre_2_E1_B|Salle B - Etage 1|EMSI centre 2|1|B|40
+EMSI_Hassan_E5_A|Salle A - Etage 5|EMSI Hassan|5|A|45
+EMSI_Hassan_E5_B|Salle B - Etage 5|EMSI Hassan|5|B|45
+EMSI_Agdal_2_E1_F|Salle F - Etage 1|EMSI Agdal 2|1|F|45
+EMSI_Agdal_2_E5_B|Salle B - Etage 5|EMSI Agdal 2|5|B|45
+EMSI_Hassan_E5_C|Salle C - Etage 5|EMSI Hassan|5|C|45
+EMSI_Agdal_2_E1_E|Salle E - Etage 1|EMSI Agdal 2|1|E|45
+EMSI_Agdal_2_E5_A|Salle A - Etage 5|EMSI Agdal 2|5|A|45
+EMSI_Agdal_2_E1_D|Salle D - Etage 1|EMSI Agdal 2|1|D|45
+EMSI_Agdal_2_E1_C|Salle C - Etage 1|EMSI Agdal 2|1|C|45
+EMSI_souissi_E3_LI|Salle LI - Etage 3|EMSI souissi|3|LI|45
+EMSI_Agdal_2_E5_F|Salle F - Etage 5|EMSI Agdal 2|5|F|45
+EMSI_centre_1_E1_LI|Salle LI - Etage 1|EMSI centre 1|1|LI|40
+EMSI_centre_1_E4_A|Salle A - Etage 4|EMSI centre 1|4|A|40
+EMSI_Agdal_2_E3_Amphi|Amphithéâtre - Etage 3|EMSI Agdal 2|3|Amphi|200
+EMSI_Agdal_2_E5_E|Salle E - Etage 5|EMSI Agdal 2|5|E|45
+EMSI_centre_1_E4_B|Salle B - Etage 4|EMSI centre 1|4|B|40
+EMSI_Agdal_2_E5_D|Salle D - Etage 5|EMSI Agdal 2|5|D|45
+EMSI_Agdal_2_E5_C|Salle C - Etage 5|EMSI Agdal 2|5|C|45
+EMSI_Hassan_E1_A|Salle A - Etage 1|EMSI Hassan|1|A|45
+EMSI_centre_1_E4_C|Salle C - Etage 4|EMSI centre 1|4|C|40
+EMSI_Hassan_E1_B|Salle B - Etage 1|EMSI Hassan|1|B|45
+EMSI_bouregrag_E2_LI|Salle LI - Etage 2|EMSI bouregrag|2|LI|45
+EMSI_Agdal_2_E5_LI|Salle LI - Etage 5|EMSI Agdal 2|5|LI|45
+EMSI_centre_2_E1_C|Salle C - Etage 1|EMSI centre 2|1|C|40
+EMSI_centre_2_E3_LI|Salle LI - Etage 3|EMSI centre 2|3|LI|40
+EMSI_Hassan_E2_LI|Salle LI - Etage 2|EMSI Hassan|2|LI|45
+EMSI_Agdal_1_E3_LI|Salle LI - Etage 3|EMSI Agdal 1|3|LI|40
+EMSI_Agdal_1_E3_B|Salle B - Etage 3|EMSI Agdal 1|3|B|40
+EMSI_Agdal_1_E3_C|Salle C - Etage 3|EMSI Agdal 1|3|C|40
+EMSI_Agdal_1_E3_A|Salle A - Etage 3|EMSI Agdal 1|3|A|40
